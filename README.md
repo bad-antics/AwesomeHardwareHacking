@@ -39,6 +39,10 @@ SPI & I2C | SPI & I2C both are a serial communication protocol that is commonly 
 - [UART- Shell Access To The Router](https://baudskidninja.medium.com/uart-shell-access-to-router-35c280bb1463)
 - [Firmware Extraction from EEPROM](http://blog.isecurion.com/2017/07/06/dumping-the-firmware-from-the-device-using-buspirate/)
 ***
+***
+### Hardware Hacking Distributions:
+- [NullSec Linux](https://github.com/bad-antics/nullsec-linux) - Debian-based security distribution optimized for hardware hacking. Features Flipper Zero integration and 135+ security tools.
+
 ### 🤝 Connect with me
 [![Instagram: souravbaghz](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/souravbaghz)
 [![GitHub souravbaghz](https://img.shields.io/badge/github-%23000000.svg?&style=for-the-badge&logo=github)](https://github.com/souravbaghz)
