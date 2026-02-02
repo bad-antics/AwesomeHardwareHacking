@@ -41,7 +41,7 @@ SPI & I2C | SPI & I2C both are a serial communication protocol that is commonly 
 ***
 ***
 ### Hardware Hacking Distributions:
-- [NullSec Linux](https://github.com/bad-antics/nullsec-linux) - Debian-based security distribution optimized for hardware hacking. Features Flipper Zero integration and 135+ security tools.
+- [NullSec Linux](https://github.com/bad-antics/nullsec-linux) - Debian-based security distribution optimized for hardware hacking. Features Flipper Zero integration and 140+ security tools.
 
 ### 🤝 Connect with me
 [![Instagram: souravbaghz](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/souravbaghz)
